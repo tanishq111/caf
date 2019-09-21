@@ -124,3 +124,44 @@ background: rgba(0,0,0,0.5);
    color: black;
    margin-left: 65px ;
 }
+
+/* guidelines */
+#guide-con{
+  height:230px;
+}
+.guide-con{
+  height:420px;
+  margin-top:0px;
+  margin-left: 0px;
+  background-color: rgba(0,0,0,0.5);
+  font-family: Raleway;
+  color:white;
+  text-align: left;
+  position: relative;
+  width: 1000px;
+  padding: 40px;
+  border: 3px solid white;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+/* success */
+.ss{
+  font-size: 50px;
+  font-family: Raleway;
+  text-align: center;
+}
+
+.foot{
+  margin-top: 70px;;
+}
+
+.foot1{
+  margin-top: 500px;
+}
+
+.logo-div{
+  width:180px;
+  margin-left:40px;
+  display: inline;
+}
