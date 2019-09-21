@@ -93,3 +93,34 @@ div.pullRight a:hover:before
 }
 
 /* Registration */
+.reg-home{
+  color:#fff;
+  font-family: Raleway;
+  padding-left:50%;
+  margin-bottom: 10%;
+}
+.regform-container{
+  padding-top: 1%;
+background: rgba(0,0,0,0.5);
+  text-align:center;
+  width:400px;
+  height:650px;
+  position: absolute;
+  font-family: Raleway;
+  border-radius: 18px;
+	margin-left: 38%;
+  top:300px;
+}
+
+.regform {
+  height: 100%;
+  border: 1px solid black;
+}
+.fi{
+  height:35px;
+  width:70%;
+   border-radius:18px;
+   padding-left:0%;
+   color: black;
+   margin-left: 65px ;
+}
