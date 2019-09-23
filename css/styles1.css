@@ -12,14 +12,19 @@ body html{
  background-attachment: fixed;
  height:100vh;
 }
-
 @media (max-width: 1028px) {
   .bg {
     height: 100vh;
   }
 
 }
-
+#logo{
+border-radius:18px;
+margin-left:20px;
+}
+#head{
+	font-family:Raleway;
+}
 div.container1
 {
     font-family: Raleway;
